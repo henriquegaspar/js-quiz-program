@@ -44,7 +44,7 @@ if ( ans.toUpperCase() === 'SPAIN' ) {
 document.write("<p style=\"color: green\"> CORRECT!</p>");
 } else {
  wrong += 1;
- document.write("<p style=\"color: red\"> WRONG! Correct answer: ALIEN </p>");
+ document.write("<p style=\"color: red\"> WRONG! Correct answer: Spain </p>");
 }
 
 ans = prompt("Who did score for germany in the 2014 Soccer World Cup final?");
